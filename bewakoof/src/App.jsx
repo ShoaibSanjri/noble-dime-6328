@@ -6,6 +6,8 @@ import OfferNavbar from './Components/OfferNavbar'
 import Navbar from './Components/Navbar'
 import CategoryBar from './Components/CategoryBar'
 import MenFirstSwipper from './Components/MenFirstSwipper'
+import CrazyPoster from './Components/CrazyPoster'
+import DesignSection from './Components/DesignSection'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -17,6 +19,8 @@ function App() {
       <hr style={{marginTop:"10px"}} ></hr>
       <CategoryBar />
       <MenFirstSwipper />
+      <CrazyPoster  />
+      <DesignSection />
     </div>
   )
 }
