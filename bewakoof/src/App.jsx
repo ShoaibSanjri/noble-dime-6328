@@ -8,6 +8,12 @@ import CategoryBar from './Components/CategoryBar'
 import MenFirstSwipper from './Components/MenFirstSwipper'
 import CrazyPoster from './Components/CrazyPoster'
 import DesignSection from './Components/DesignSection'
+import PopularCategories from './Components/PopularCategories'
+import Discount from './Components/Discount'
+import { BellIcon } from '@chakra-ui/icons'
+import Bestsellers from './Components/BestSellers'
+import SecondSwipper from './Components/SecondSwipper'
+import StoopidCollection from './Components/StoopidCollection'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -21,6 +27,13 @@ function App() {
       <MenFirstSwipper />
       <CrazyPoster  />
       <DesignSection />
+      <PopularCategories style={{marginBottom:"30px"}} />
+      <h1 style={{fontSize:"22px",fontWeight:"bold"}} >DISCOUNT PE DISCOUNT</h1>
+      <Discount /> 
+      {/* <Bestsellers /> */}
+      <SecondSwipper />
+      {/* <h1 style={{fontSize:"16px",fontWeight:"bold",letterSpacing:"2px"}} >CLEARANCE ZONE</h1> */}
+      <StoopidCollection />
     </div>
   )
 }
