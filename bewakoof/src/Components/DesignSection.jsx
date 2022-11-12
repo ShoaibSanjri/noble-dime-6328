@@ -43,10 +43,11 @@ function DesignSection(){
 
     return (
     <div>
-        <HStack mt={7}  fontSize={15}  >
+        <HStack mt={7}  fontSize={13}  >
         {designList.map((item) => <Box > <Image src={item.src} /> <Text fontWeight="bold" >{item.name}</Text> </Box> )}
     </HStack>
-    <Image src="https://images.bewakoof.com/uploads/grid/app/thun-strip-new-2022-desksite-1667996808.jpg" ></Image>
+    <Image mb={5} src="https://images.bewakoof.com/uploads/grid/app/thun-strip-new-2022-desksite-1667996808.jpg" ></Image>
+    <Heading as="h3" fontSize={22} >POPULAR CATEGORIES</Heading>
     </div>
 
     );
