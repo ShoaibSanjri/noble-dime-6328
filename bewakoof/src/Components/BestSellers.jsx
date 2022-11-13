@@ -1,5 +1,8 @@
 import { ChevronRightIcon } from "@chakra-ui/icons";
-import { Box, SimpleGrid,Image } from "@chakra-ui/react";
+import { Box, SimpleGrid,Image,Text } from "@chakra-ui/react";
+import React from "react"
+import { ContextApi } from "./Context/ContextApi";
+
 
 const BestsellersList = [
     [
@@ -49,13 +52,13 @@ const BestsellersList = [
 ]
 
 function Bestsellers(){
-    var i = 0;
-    console.log(BestsellersList[i])
-    return <SimpleGrid m={10} border="1px solid red" columns={5} spacing={5} >
+    const {bseller,setBseller} = React.useContext(ContextApi)
+   console.log(bseller)
+    return <SimpleGrid m={10} columns={5} spacing={5} >
             {
-                BestsellersList[i].map((item) => <Box> <Image src={item.src} /> </Box>)
+                BestsellersList[0].map((item) => <Box> <Image src={item.src} /> <Text>{item.price}</Text> </Box>)
             }
-            <ChevronRightIcon style={{transform:translate(10,5)}} />
+            <ChevronRightIcon />
     </SimpleGrid>
 }
 

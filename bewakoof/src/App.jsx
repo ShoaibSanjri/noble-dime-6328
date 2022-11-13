@@ -14,12 +14,18 @@ import { BellIcon } from '@chakra-ui/icons'
 import Bestsellers from './Components/BestSellers'
 import SecondSwipper from './Components/SecondSwipper'
 import StoopidCollection from './Components/StoopidCollection'
+import Footer from './Components/Footer'
+import SecondFooter from './Components/SecondFooter'
+import {Route,Routes} from "react-router-dom"
+import Routing from './Components/Routes'
+import MensClothing from './Components/MenClothing'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <div className="App" >
+      
       <OfferNavbar />
       <Navbar />
       <hr style={{marginTop:"10px"}} ></hr>
@@ -30,11 +36,16 @@ function App() {
       <PopularCategories style={{marginBottom:"30px"}} />
       <h1 style={{fontSize:"22px",fontWeight:"bold"}} >DISCOUNT PE DISCOUNT</h1>
       <Discount /> 
-      {/* <Bestsellers /> */}
+      <h1 style={{fontSize:"16px",fontWeight:"bold",letterSpacing:"2px"}} >CLEARANCE ZONE</h1>
+      <Bestsellers />
       <SecondSwipper />
-      {/* <h1 style={{fontSize:"16px",fontWeight:"bold",letterSpacing:"2px"}} >CLEARANCE ZONE</h1> */}
-      <StoopidCollection />
+      
+     <StoopidCollection /> 
+      <Footer />
+      <SecondFooter /> 
+       <MensClothing />
     </div>
+
   )
 }
 
