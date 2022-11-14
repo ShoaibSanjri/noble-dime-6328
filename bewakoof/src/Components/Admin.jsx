@@ -1,16 +1,22 @@
-import { Button, Heading, Input } from "@chakra-ui/react";
+import { Button, Heading, Input,Box } from "@chakra-ui/react";
+import { Link } from "react-router-dom";
+import AdminLoginForm from "./AdminLoginForm";
 import Login from "./Login";
+import OfferNavbar from "./OfferNavbar";
 
 function Admin(){
-    return <div>
-        <Heading mt={10} mb={10} >Login Here</Heading>
-        <form style={{width:"300px",margin:"auto"}} action="">
-            <Input mb={5} placeholder="Enter Email" />
-            <Input mb={5} placeholder = "Enter Password" />
-            <Button>Login</Button>
-
-        </form>
-    </div>
+    const handleDelete = () =>{
+        
+    }
+    return <Box  >
+        <OfferNavbar  />
+        <Box mt={5} >
+        <Link to="/add-product"><Button>Add Product</Button></Link>
+        <Link to='/admin-login' ><Button>Login</Button></Link>
+        <Button onClick={handleDelete} >Delete Product</Button>
+        <Button>See User</Button>
+        </Box>
+    </Box>
 }
 
 export default Admin;
