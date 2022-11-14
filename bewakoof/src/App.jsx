@@ -43,7 +43,7 @@ function App() {
      <StoopidCollection /> 
       <Footer />
       <SecondFooter /> 
-       <MensClothing />
+      
     </div>
 
   )

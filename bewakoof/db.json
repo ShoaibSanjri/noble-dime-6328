@@ -1,6 +1,214 @@
 {
   "data": [
-    
+    {
+      "id": "1",
+      "image": "https://images.bewakoof.com/t640/men-s-beige-mickey-graphic-printed-oversizedt-shirt-516646-1667912529-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's beige Mickey Graphic",
+      "price": "899"
+    },
+    {
+      "id": "2",
+      "image": "https://images.bewakoof.com/t640/men-s-black-oversized-t-shirt-439421-1667498454-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's black over-sized T-shirt",
+      "price": "413"
+    },
+    {
+      "id": "3",
+      "image": "https://images.bewakoof.com/t640/customizable-men-s-black-round-neck-t-shirt-443960-1655808173-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Customizable Men's black T-shirt",
+      "price": "499"
+    },
+    {
+      "id": "4",
+      "image": "https://images.bewakoof.com/t640/men-s-lilac-bloom-solid-t-shirt-507614-1668075581-1.JPG",
+      "brand": "Bewakoof",
+      "title": "Mens lilac over-sized T-shirt",
+      "price": "599"
+    },
+    {
+      "id": "5",
+      "image": "https://images.bewakoof.com/t640/men-black-plain-t-shirt-539556-1668071378-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's black over-sized T-shirt",
+      "price": "699"
+    },
+    {
+      "id": "6",
+      "image": "https://images.bewakoof.com/t640/mens-solid-t-shirt-516425-1668071420-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's Navy over-sized T-shirt",
+      "price": "699"
+    },
+    {
+      "id": "7",
+      "image": "https://images.bewakoof.com/t640/men-white-disney-original-crew-printed-t-shirt-516641-1667911995-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's Disney crew Graphic T-shirt",
+      "price": "799"
+    },
+    {
+      "id": "8",
+      "image": "https://images.bewakoof.com/t640/king-of-curses-sukuna-full-sleeve-t-shirt-554303-1668173452-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's black king of curses Graphic T-shirt",
+      "price": "489"
+    },
+    {
+      "id": "9",
+      "image": "https://images.bewakoof.com/t640/men-panda-camou-2-0-aop-t-shirt-516659-1667398507-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Mens lilac camo super loose T-shirt",
+      "price": "899"
+    },
+    {
+      "id": "10",
+      "image": "https://images.bewakoof.com/t640/men-jonny-stripes-printed-t-shirt-516672-1667912683-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Mens super striped over-sized T-shirt",
+      "price": "709"
+    },
+    {
+      "id": "11",
+      "image": "https://images.bewakoof.com/t640/men-rose-dawn-plain-t-shirt-540860-1667912491-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's rose down over-sized T-shirt",
+      "price": "749"
+    },
+    {
+      "id": "12",
+      "image": "https://images.bewakoof.com/t640/men-s-maroon-cotton-shirt-538465-1661765836-1.jpg",
+      "brand": "DIlinger",
+      "title": "Men's Marron Cotton Shirt",
+      "price": "899"
+    },
+    {
+      "id": "13",
+      "image": "https://images.bewakoof.com/t640/men-s-white-all-over-printed-slim-fit-shirt-539928-1662121862-1.jpg",
+      "brand": "Snitch",
+      "title": "Men's White all over Printed Shirt ",
+      "price": "999"
+    },
+    {
+      "id": "14",
+      "image": "https://images.bewakoof.com/t640/men-s-green-grey-checked-slim-fit-shirt-541386-1662717315-1.jpg",
+      "brand": "Snitch",
+      "title": "Men's green and grey checked Shirt",
+      "price": "999"
+    },
+    {
+      "id": "15",
+      "image": "https://images.bewakoof.com/t640/red-checks-two-pocket-casual-full-sleeve-shirt-376591-1655817418-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's Red Checks two pocket Shirt",
+      "price": "499"
+    },
+    {
+      "id": "16",
+      "image": "https://images.bewakoof.com/t640/men-s-white-overthinking-typography-shirt-352185-1655834013-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's white overthinking Shirt",
+      "price": "689"
+    },
+    {
+      "id": "17",
+      "image": "https://images.bewakoof.com/t640/men-s-black-placket-print-shirt-352183-1655815621-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's Black pocket printed Shirt",
+      "price": "571"
+    },
+    {
+      "id": "18",
+      "image": "https://images.bewakoof.com/t640/men-s-yellow-slim-fit-shirt-495947-1655834211-1.jpg",
+      "brand": "Snitch",
+      "title": "Men's Yellow slim fit Shirt",
+      "price": "1099"
+    },
+    {
+      "id": "19",
+      "image": "https://images.bewakoof.com/t640/men-s-blue-white-color-block-shirt-516934-1657286795-1.jpg",
+      "brand": "Huberholmes",
+      "title": "Men's blue and white collor Shirt",
+      "price": "756"
+    },
+    {
+      "id": "20",
+      "image": "https://images.bewakoof.com/t640/fire-whirl-floral-aop-half-sleeve-shirt-352200-1656141281-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's Floar half sleev",
+      "price": "419"
+    },
+    {
+      "id": "21",
+      "image": "https://images.bewakoof.com/t640/khadio-full-sleeves-cotton-casual-chinese-neck-shirt-394536-1656139437-1.jpg",
+      "brand": "Riag",
+      "title": "Men's chinese casual Shirt",
+      "price": "988"
+    },
+    {
+      "id": "22",
+      "image": "https://images.bewakoof.com/t640/desert-sun-half-sleeve-solid-shirt-348562-1656139214-1.jpg",
+      "brand": "Riag",
+      "title": "Men's Desser Sun Half sleeve Shirt",
+      "price": "1111"
+    },
+    {
+      "id": "23",
+      "image": "https://images.bewakoof.com/t640/men-s-steel-grey-solid-windcheater-aw-22-491988-1663254962-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's Steelgray windcheater jacket",
+      "price": "1799"
+    },
+    {
+      "id": "24",
+      "image": "https://images.bewakoof.com/t640/men-s-black-solid-windcheater-aw-22-491987-1663667728-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's Black windcheater",
+      "price": "1447"
+    },
+    {
+      "id": "25",
+      "image": "https://images.bewakoof.com/t640/black-colorblock-windcheater-jacket-367108-1656169022-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's Black colorblock windcheater jacket",
+      "price": "1876"
+    },
+    {
+      "id": "26",
+      "image": "https://images.bewakoof.com/t640/grey-color-block-windcheater-jacket-364950-1656161763-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's Gray colorblock windcheater jacket",
+      "price": "1299"
+    },
+    {
+      "id": "27",
+      "image": "https://images.bewakoof.com/t640/men-s-off-white-colorblock-windcheater-aw-22-491999-1661496276-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's black and white jakcet",
+      "price": "877"
+    },
+    {
+      "id": "28",
+      "image": "https://images.bewakoof.com/t640/men-grey-solid-regular-pu-jackets-504081-1667973062-1.jpg",
+      "brand": "Bewakoof",
+      "title": "Men's grey hooded jacket",
+      "price": "1200"
+    },
+    {
+      "image": "",
+      "brand": "",
+      "title": "",
+      "price": "",
+      "id": "0Bq1wf_"
+    },
+    {
+      "image": "https://images.bewakoof.com/t640/men-s-green-cotton-slim-fit-shirt-490208-1656150722-1.jpg",
+      "brand": "Bewakoof",
+      "title": "green shirt",
+      "price": "1999",
+      "id": "ntnErFQ"
+    }
   ]
-  
 }
